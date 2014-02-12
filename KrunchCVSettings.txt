@@ -1,0 +1,15 @@
+Camera Pitch Degree High, 0.0
+Camera Height in Inches, 0.0
+Min Width Rect Goals, 0.0
+CONTRAST, 0.0
+G.O.A.T., 0.0
+BRIGHTNESS, 0.0
+Max Width Rect Goals, 0.0
+VAL MAX, 0.0
+Top Target Height Inches, 0.0
+Camera Pitch Degree Low, 0.0
+VAL MIN, 0.0
+HUE MAX, 0.0
+HUE MIN, 0.0
+SAT MIN, 0.0
+SAT MAX, 0.0
